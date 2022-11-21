@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Smyrnov Pavlo
-- It's example for Esp32
+- It's example for Esp32. Tracker station. GPS, LoRa, Servo, SSD1366, FreeRTOS. 
