@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Smyrnov Pavlo
-- It's example for Orange Pi Zero2, Linux, C++, ACD, Mqtt, Display, linux service (daemon).
+- It's example for Esp32
